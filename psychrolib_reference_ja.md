@@ -1,5 +1,25 @@
 # PsychroLib (version 2.5.0) 日本語リファレンス
 
+```Bash
+
+npm install psychrolib
+
+```
+
+```TypeScript
+// リファレンス通りのベーシックな書き方
+const psychrolib = require('psychrolib');
+
+/* TypeScript特有の補足
+もしTypeScriptの設定（tsconfig.json）によっては、上記の `require` に対して
+「requireが見つかりません」というエラーが出る場合があります。
+その場合は、TypeScript標準のrequire構文である以下を使用してください。
+*/
+// import psychrolib = require('psychrolib');
+```
+
+
+
 ## 概要
 PsychroLibは、気体と蒸気の混合物、および標準大気の熱力学的特性を計算するためのライブラリです。多くの工学、物理学、気象学のアプリケーションに適しています。ほとんどの関数は、2017年のASHRAE Handbook - Fundamentalsに記載されている公式を実装したもので、国際単位系（SI）とヤード・ポンド法（IP）の両方に対応しています。
 
