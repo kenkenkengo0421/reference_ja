@@ -1,5 +1,5 @@
 
-# 公式リファレンス日本語訳(Type Script)
+# 公式リファレンス日本語訳(Java(Type) Script)
 
 <br>
 <br>
