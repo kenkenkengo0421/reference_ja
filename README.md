@@ -24,6 +24,9 @@
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" width="60" alt="HVAC Auto Control Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/500px-Typescript_logo_2020.svg.png" width="60" alt="HVAC Auto Control Logo">　
+ 　<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/250px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="60" alt="HVAC Auto Control Logo">
+  
 </div>
 
 >[HTML_CSS_JS](https://developer.mozilla.org/ja/)
@@ -33,4 +36,6 @@
 >[React](https://ja.react.dev/)
 >
 >[mcprotocol](https://www.npmjs.com/package/@raydotac/mcprotocol)
+>
+>[preview](https://preview.wasa6.com/)
 
