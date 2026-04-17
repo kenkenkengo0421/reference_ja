@@ -38,3 +38,10 @@
 >
 >[css-flexbox-cheat-sheet](https://www.webcreatorbox.com/blog/css-flexbox-cheat-sheet)
 
+
+[![My Skills](https://skillicons.dev/icons?i=linux,debian)](https://skillicons.dev)
+
+>[debian-reference](https://www.debian.org/doc/manuals/debian-reference/index.ja.html)
+
+
+
