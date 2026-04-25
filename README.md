@@ -47,5 +47,16 @@
 
 >[debian-reference](https://www.debian.org/doc/manuals/debian-reference/index.ja.html)
 
+<br>
 
 
+
+
+
+
+
+
+
+
+
+### [よく見るサイト](https://note.com/kzr8302)
