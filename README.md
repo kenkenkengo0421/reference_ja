@@ -57,6 +57,8 @@
 
 
 
-
-
-### [よく見るサイト](https://note.com/kzr8302)
+### Bookmark
+>
+>### [kzr8302](https://note.com/kzr8302)
+>
+>### [ya_ikegami](https://note.com/ya_ikegami)
