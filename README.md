@@ -23,6 +23,8 @@
 > [matplotlib](https://matplotlib.org/stable/)
 >
 > [Jupyter notebook](https://jupyter.org/)
+>
+> [jupyterlab-language-pack](https://pypi.org/project/jupyterlab-language-pack-ja-JP/)
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,ts,js)](https://skillicons.dev)
   
