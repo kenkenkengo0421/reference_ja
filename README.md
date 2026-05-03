@@ -10,6 +10,8 @@
 
 > [Python](https://www.python.org/community/logos/)
 >
+> [.venv](https://docs.python.org/ja/3/library/venv.html)
+>
 > [Pandas](https://pandas.pydata.org/docs/index.html)
 > 
 > [Requests](https://requests.readthedocs.io/en/latest/user/install/)
