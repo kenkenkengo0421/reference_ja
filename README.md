@@ -21,6 +21,8 @@
 > [scikit-learn](https://scikit-learn.org/stable/index.html)
 > 
 > [matplotlib](https://matplotlib.org/stable/)
+>
+> [Jupyter notebook](https://jupyter.org/)
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,ts,js)](https://skillicons.dev)
   
