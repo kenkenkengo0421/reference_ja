@@ -58,6 +58,7 @@
 <br>
 
 
+>[QシリーズST言語](https://zenn.dev/ken_0421/articles/1f871c3a1e89ce)
 
 
 
@@ -65,8 +66,3 @@
 
 
 
-### Bookmark
->
-> [kzr8302](https://note.com/kzr8302)
->
-> [ya_ikegami](https://note.com/ya_ikegami)
