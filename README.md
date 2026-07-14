@@ -24,6 +24,12 @@
 > 
 > [matplotlib](https://matplotlib.org/stable/)
 >
+> [matplotlib日本語版](https://jp.matplotlib.net/stable/index.html)
+>
+> [Seaborn ](https://seaborn.pydata.org/)
+>
+> [seaborn日本語版](https://datastudydock.com/seaborn/)
+>
 > [Jupyter notebook](https://jupyter.org/)
 >
 > [jupyterlab-language-pack](https://pypi.org/project/jupyterlab-language-pack-ja-JP/)
